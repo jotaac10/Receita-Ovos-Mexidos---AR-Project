@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="receitacomscanner" size="500.000000 650.132263" />
+    <ImageTarget name="novo" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>
